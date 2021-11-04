@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Jiye Son👋 I'm working on a master's degree in bioengineering.
+### I'm currently in the medical informatics lab of Seoul National University in Korea.
 
+### Area of Interet
+- Natural language processing
+- Deep Learning
+- Multimodal deep learning
 <!--
 **jyson24/jyson24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
