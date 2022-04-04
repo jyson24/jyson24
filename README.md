@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonjy9712@gmail.com"/></a>
+<a href="mailto:sonjy9712@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonjy9712@gmail.com"/></a>
 ### Hi, I'm Jiye Son👋 I'm working on a master's degree in bioengineering.
 ### I'm currently in the medical informatics lab of Seoul National University in Korea.
 
